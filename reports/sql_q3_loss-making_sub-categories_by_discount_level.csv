@@ -1,0 +1,10 @@
+sub_category,discount_level,order_lines,profit
+Laptops,Deep (>30%),117,-30605.0
+Tables,Light (1-30%),444,-23367.0
+Tables,Deep (>30%),103,-14941.0
+Phones,Deep (>30%),133,-11050.0
+Bookcases,Deep (>30%),117,-8544.0
+Chairs,Deep (>30%),116,-5108.0
+Bookcases,Light (1-30%),411,-4238.0
+Storage,Deep (>30%),173,-1377.0
+Binders,Deep (>30%),174,-84.0

@@ -1,0 +1,285 @@
+{
+  "kpi": {
+    "total_sales": 5983179.49,
+    "total_profit": 473663.60000000003,
+    "profit_margin": 0.07916586838012443,
+    "orders": 6000,
+    "customers": 856,
+    "avg_order_value": 997.1965816666667,
+    "avg_ship_days": 4.8188830034383425,
+    "loss_making_share": 0.1914320230461853,
+    "loss_total": -134710.63
+  },
+  "cleaning_log": {
+    "rows_raw": 10807,
+    "duplicates_removed": 46,
+    "text_fields_standardised": 7,
+    "mixed_date_formats_fixed": 324,
+    "negative_quantity_fixed": 12,
+    "missing_before": {
+      "ship_mode": 108,
+      "customer_name": 108,
+      "state": 216,
+      "discount": 162
+    },
+    "sales_outliers_corrected": 11,
+    "rows_clean": 10761,
+    "missing_after": 0
+  },
+  "by_year": [
+    {
+      "year": 2023,
+      "sales": 1724511.46,
+      "profit": 145463.34,
+      "yoy_sales_growth": NaN
+    },
+    {
+      "year": 2024,
+      "sales": 1974695.24,
+      "profit": 144093.58,
+      "yoy_sales_growth": 0.1450751623303217
+    },
+    {
+      "year": 2025,
+      "sales": 2283972.79,
+      "profit": 184106.68,
+      "yoy_sales_growth": 0.15662039576294307
+    }
+  ],
+  "by_category": [
+    {
+      "category": "Furniture",
+      "sales": 2014985.77,
+      "profit": 74981.38,
+      "margin": 0.03721186576915628
+    },
+    {
+      "category": "Office Supplies",
+      "sales": 348841.89,
+      "profit": 70339.05,
+      "margin": 0.2016359044494341
+    },
+    {
+      "category": "Technology",
+      "sales": 3619351.83,
+      "profit": 328343.17,
+      "margin": 0.09071877657166035
+    }
+  ],
+  "by_subcategory": [
+    {
+      "category": "Furniture",
+      "sub_category": "Bookcases",
+      "sales": 551416.07,
+      "profit": 23884.98,
+      "margin": 0.04331571257979479
+    },
+    {
+      "category": "Furniture",
+      "sub_category": "Chairs",
+      "sales": 496705.07,
+      "profit": 49395.08,
+      "margin": 0.09944549186904816
+    },
+    {
+      "category": "Furniture",
+      "sub_category": "Tables",
+      "sales": 966864.63,
+      "profit": 1701.3200000000002,
+      "margin": 0.0017596258537247351
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Binders",
+      "sales": 50325.99,
+      "profit": 10873.71,
+      "margin": 0.21606549617801854
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Paper",
+      "sales": 63690.4,
+      "profit": 20123.13,
+      "margin": 0.31595232562521197
+    },
+    {
+      "category": "Office Supplies",
+      "sub_category": "Storage",
+      "sales": 234825.5,
+      "profit": 39342.21,
+      "margin": 0.16753806549970085
+    },
+    {
+      "category": "Technology",
+      "sub_category": "Accessories",
+      "sales": 129546.67,
+      "profit": 34820.82,
+      "margin": 0.26878977282858757
+    },
+    {
+      "category": "Technology",
+      "sub_category": "Laptops",
+      "sales": 2357701.27,
+      "profit": 139754.32,
+      "margin": 0.059275668965475
+    },
+    {
+      "category": "Technology",
+      "sub_category": "Phones",
+      "sales": 1132103.89,
+      "profit": 153768.03,
+      "margin": 0.13582501690723808
+    }
+  ],
+  "by_region": [
+    {
+      "region": "Central",
+      "sales": 1001352.56,
+      "profit": 73862.44,
+      "margin": 0.07376267156095352
+    },
+    {
+      "region": "East",
+      "sales": 1676076.61,
+      "profit": 138721.5,
+      "margin": 0.08276560819018887
+    },
+    {
+      "region": "South",
+      "sales": 1159578.77,
+      "profit": 92233.64,
+      "margin": 0.07954064215922131
+    },
+    {
+      "region": "West",
+      "sales": 2146171.55,
+      "profit": 168846.02,
+      "margin": 0.0786731237770811
+    }
+  ],
+  "by_segment": [
+    {
+      "segment": "Consumer",
+      "sales": 3332258.15,
+      "profit": 271584.82,
+      "customers": 449
+    },
+    {
+      "segment": "Corporate",
+      "sales": 1632072.96,
+      "profit": 124683.29,
+      "customers": 257
+    },
+    {
+      "segment": "Home Office",
+      "sales": 1018848.38,
+      "profit": 77395.49,
+      "customers": 150
+    }
+  ],
+  "by_discount_band": [
+    {
+      "discount_band": "0%",
+      "sales": 3127287.79,
+      "profit": 496412.11,
+      "lines": 4827,
+      "loss_rate": 0.0006215040397762585,
+      "margin": 0.15873566596184613
+    },
+    {
+      "discount_band": "1-10%",
+      "sales": 887908.73,
+      "profit": 75660.93,
+      "lines": 1570,
+      "loss_rate": 0.0464968152866242,
+      "margin": 0.08521250827210584
+    },
+    {
+      "discount_band": "11-20%",
+      "sales": 944816.57,
+      "profit": 10578.72,
+      "lines": 1816,
+      "loss_rate": 0.2488986784140969,
+      "margin": 0.011196586020924675
+    },
+    {
+      "discount_band": "21-30%",
+      "sales": 580689.83,
+      "profit": -37865.04,
+      "lines": 1326,
+      "loss_rate": 0.46003016591251883,
+      "margin": -0.0652069969952806
+    },
+    {
+      "discount_band": "31-50%",
+      "sales": 442476.57,
+      "profit": -71123.12,
+      "lines": 1222,
+      "loss_rate": 0.7545008183306056,
+      "margin": -0.16073872566857042
+    }
+  ],
+  "peak_months": [
+    12,
+    11,
+    10
+  ],
+  "rfm_segments": [
+    {
+      "rfm_segment": "At Risk (high value)",
+      "customers": 81,
+      "revenue": 730549.79,
+      "avg_orders": 8.296296296296296,
+      "avg_recency": 210.08641975308643,
+      "revenue_share": 0.12210059738655776
+    },
+    {
+      "rfm_segment": "Champions",
+      "customers": 258,
+      "revenue": 3825356.28,
+      "avg_orders": 14.166666666666666,
+      "avg_recency": 33.81395348837209,
+      "revenue_share": 0.6393517504185722
+    },
+    {
+      "rfm_segment": "Lost / Dormant",
+      "customers": 200,
+      "revenue": 500989.21,
+      "avg_orders": 2.39,
+      "avg_recency": 527.87,
+      "revenue_share": 0.08373294012612013
+    },
+    {
+      "rfm_segment": "Loyal / Potential",
+      "customers": 131,
+      "revenue": 439796.88,
+      "avg_orders": 4.656488549618321,
+      "avg_recency": 40.3587786259542,
+      "revenue_share": 0.07350554679749378
+    },
+    {
+      "rfm_segment": "Need Attention",
+      "customers": 186,
+      "revenue": 486487.33,
+      "avg_orders": 3.1451612903225805,
+      "avg_recency": 159.22043010752688,
+      "revenue_share": 0.08130916527125613
+    }
+  ],
+  "top20_customer_revenue_share": 0.5659084531324998,
+  "loss_by_discount_over_30": -71123.12,
+  "profit_lines_discount_over_20": -108988.16,
+  "sales_lines_discount_over_20": 1023166.3999999999,
+  "tables_profit_by_discount": {
+    "0%": 40009.0,
+    "1-10%": 874.0,
+    "11-20%": -9755.0,
+    "21-30%": -14486.0,
+    "31-50%": -14941.0
+  },
+  "margin_by_year": {
+    "2023": 0.08435046294212507,
+    "2024": 0.072970034606454,
+    "2025": 0.0806080881550257
+  }
+}

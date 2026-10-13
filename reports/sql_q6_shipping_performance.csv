@@ -1,0 +1,6 @@
+ship_mode,orders,avg_ship_days,margin_pct
+Same Day,411,0.97,8.3
+First Class,882,3.01,8.4
+Second Class,1226,4.01,8.0
+Unknown,108,4.89,6.5
+Standard Class,3452,6.02,7.7

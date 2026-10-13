@@ -1,0 +1,11 @@
+customer_id,customer_name,segment,region,orders,lifetime_sales,sales_rank
+C1336,Customer 337,Consumer,West,109,118740.0,1
+C1171,Customer 172,Consumer,East,71,63618.0,2
+C1152,Customer 153,Consumer,West,56,63401.0,3
+C1127,Customer 128,Consumer,East,35,52700.0,4
+C1582,Customer 583,Consumer,East,27,52137.0,5
+C1026,Customer 27,Consumer,West,48,47055.0,6
+C1123,Customer 124,Consumer,East,49,46507.0,7
+C1856,Customer 857,Corporate,West,29,43450.0,8
+C1596,Customer 597,Corporate,South,47,40216.0,9
+C1744,Customer 745,Consumer,West,49,38520.0,10
